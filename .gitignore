@@ -1,0 +1,31 @@
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local builds, archives, and potentially sensitive analysis data
+build/
+dist/
+.gradle/
+*.zip
+*.log
+*.gpr
+*.rep/
+*.exe
+*.dll
+*.bin
+*.dmp
+*.idb
+*.pdb
+*.png
+screenshots/
+captures/
+GhidraMCP-Captures/
+ghidra-mcp/
+.env
+.env.*
+.mcp.json
